@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# device検証用リポジトリ
 
-Things you may want to cover:
+device  
+https://github.com/plataformatec/devise
 
 * Ruby version
+ruby 2.5.3p105 (2018-10-18 revision 65156) [x86_64-darwin17]  
+Rails 5.2.1  
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
